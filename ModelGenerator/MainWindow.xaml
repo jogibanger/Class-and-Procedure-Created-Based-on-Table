@@ -1,0 +1,20 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="ModelGenerator.MainWindow"
+        Title="MainWindow" Height="500" Width="600">
+    <Grid>
+        <Button Content="Generate Class File" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="161" Margin="125,0,0,104" Click="Button_Click"/>
+        <ComboBox x:Name="cmbTable" Loaded="ComboBox_Loaded"  HorizontalAlignment="Left" Margin="109,84,0,0" VerticalAlignment="Top" Width="348"/>
+        <Label Content="Table" HorizontalAlignment="Left" Margin="35,84,0,0" VerticalAlignment="Top" Width="89"/>
+        <Label Content="OutPut Folder" HorizontalAlignment="Left" Margin="20,150,0,0" VerticalAlignment="Top" Width="89"/>
+        <TextBox HorizontalAlignment="Left" Height="31" Margin="109,145,0,0" TextWrapping="Wrap" x:Name="txtPath"  Text=""  VerticalAlignment="Top" Width="348"/>
+        
+        
+        
+        <Button Content="........" HorizontalAlignment="Left" VerticalAlignment="Top" Width="55" Click="Button_Click_1" Margin="462,145,0,0"/>
+        <Button Content="Sp Generation" x:Name="SpGenerate" Click="SpGenerate_Click" HorizontalAlignment="Left" Margin="306,344,0,0" VerticalAlignment="Top" Width="166"/>
+
+
+    </Grid>
+</Window>

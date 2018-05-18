@@ -1,0 +1,28 @@
+D:\POISE\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.exe.config
+D:\POISE\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.exe
+D:\POISE\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.pdb
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.csprojResolveAssemblyReference.cache
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\MainWindow.baml
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\MainWindow.g.cs
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\App.g.cs
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator_MarkupCompile.cache
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.g.resources
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.Properties.Resources.resources
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.csproj.GenerateResource.Cache
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.exe
+D:\POISE\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.pdb
+D:\POISE\ModelGenerator\ModelGenerator\bin\Debug\SqlDbInteraction.dll
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.exe.config
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.exe
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.pdb
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.exe
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\bin\Debug\ModelGenerator.pdb
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\bin\Debug\SqlDbInteraction.dll
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.csprojResolveAssemblyReference.cache
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\MainWindow.baml
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\MainWindow.g.cs
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\App.g.cs
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator_MarkupCompile.cache
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.g.resources
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.Properties.Resources.resources
+F:\Poise ERP and Model Generator\Desktop\ModelGenerator\ModelGenerator\obj\Debug\ModelGenerator.csproj.GenerateResource.Cache
